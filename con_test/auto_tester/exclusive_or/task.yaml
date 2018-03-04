@@ -1,0 +1,9 @@
+name: "exclusive_or"
+title: "Exclusive Or"
+time_limit: 1
+memory_limit: 10
+n_input: 4
+public_testcases: 0, 1, 2, 3
+infile: ""
+outfile: ""
+token_mode: disabled

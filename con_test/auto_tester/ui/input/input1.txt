@@ -1,0 +1,4 @@
+{
+    "type": "is_human",
+    "input": "Human is not a ComPuTer"
+}

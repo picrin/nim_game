@@ -1,0 +1,25 @@
+In lab 17 we're trying to get students to implement an optimal algorithm to play the game of Nim, and implement a user interface to play the game in three modes: player vs player, player vs computer and computer vs computer.
+
+The learning outcomes of this lab are:
+1. Learning binary ↔ numeric conversion.
+2. Learning how bitwise exclusive or works.
+3. Learning how to implement optimal (winning) algorithm for the game of Nim. Note: students are not expected to understand why the algorithm works, although we provide explanation in an additional document (further_study.html).
+4. Learning how to code game loop, gather user feedback, modify the game state, etc.
+
+Additionally, the lab serves as a trial of Automated Marking, which eventually we hope to roll out to other courses. This influences how the lab is delievered. We call it Automated Feedback, to stress that the exercise is not assessed.
+
+1. All of the files have `__name__ == "__main__"` section at the bottom, which is there solely for the purpose of the automated feedback/marking. Automated feedback is opt-out, students can just remove the whole `__name__ == "__main__" block` and not use any automated feedback
+2. The lab is not assessed, it's up to students to decide to submit their code.
+3. Student's code is submitted to http://grader.givegrade.me.uk/. Their username is lower-cased GUID, the password is the last 8 digits of the barcode.
+
+ACTIONS
+
+In order to be helpful when students run into problems with automated testing or the lab itself, could you please spend 30 minutes of your time in order to:
+
+1. Read the task description (attached) (10 minutes).
+2. Try to submit the first exercise "present_board.py" into the automated marker at http://grader.givegrade.me.uk (20 minutes). Username is `tutor`, password is `noundergradsbeyondthispoint`.
+3. If anything comes up during your preparation or labs, please drop me a line on a.kurkiewicz.1@research.gla.ac.uk. I'll try to be helpful!
+
+If you have any feedback, please let me know at a.kurkiewicz.1@research.gla.ac.uk.
+
+Adam

@@ -1,0 +1,4 @@
+{
+    "type": "num_bin",
+    "value": 1789
+}

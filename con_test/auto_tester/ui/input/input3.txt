@@ -1,0 +1,4 @@
+{
+    "type": "is_board_empty",
+    "input": [3, 0, 0]
+}

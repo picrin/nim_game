@@ -1,0 +1,4 @@
+{
+    "type": "is_n_position",
+    "input": [5, 4, 3, 2]
+}

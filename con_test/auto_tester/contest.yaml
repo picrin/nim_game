@@ -1,0 +1,15 @@
+name: "CS1P_17"
+description: "CS1P Lab 17 Automated Feedback"
+tasks:
+  - "present_board"
+  - "make_move"
+  - "exclusive_or"
+  - "bin_num"
+  - "bitwise_xor"
+  - "nim_sum"
+  - "ui"
+token_mode: disabled
+users:
+  - username: "tutor"
+    password: "noundergradsbeyondthispoint"
+    ip: null
