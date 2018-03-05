@@ -21,6 +21,12 @@ from ui import *
 from optimal_move import *
 from make_move import *
 
+
+try:
+    input = raw_input
+except NameError:
+    pass
+
 def play_nim(player1, player2, board):
     while True:
         if is_board_empty(board):
