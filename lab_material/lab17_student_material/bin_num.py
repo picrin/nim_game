@@ -22,10 +22,12 @@ from __future__ import division, print_function
 
 def numeral_binary(numeral):
     # Your code goes here!
+    # Make sure you return a list of ints, like this: [1, 1, 0]
     pass
 
 def binary_numeral(binary):
     # Your code goes here!
+    # Make sure you return an int, like this: 7
     pass
 
 # You can use the following code to locally test your submission

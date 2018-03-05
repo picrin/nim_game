@@ -5,12 +5,13 @@ from __future__ import division, print_function
 # 2. We'll make each representation to have equal length by padding the shorter representation
 #    with 0s on the left.
 # 3. We'll perform `exclusive_or` on pairs of corresponding binary digits.
+# 4. We'll convert the binary respresentation of the digit into an arabic numeral.
 
 # For example, to compute 3 xor 5 we will:
 # 1. Represent 3 in binary as [1, 1] and 5 in binary as [1, 0, 1]
 # 2. Pad [1, 1] on the left to get [0, 1, 1]
 # 3. Compute bitwise exclusive or on [0, 1, 1] and [1, 0, 1] to get [1, 1, 0]
-# 4. Represent [1, 1, 0] using arabic numeral
+# 4. Represent [1, 1, 0] using arabic numeral, 6.
 
 # Please **do not** use the python-provided xor `^` -- the point of this exercise is to learn
 # how bitwise xor works at the algorithmic level, not learning the standard library.
