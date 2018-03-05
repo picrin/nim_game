@@ -11,6 +11,7 @@ from __future__ import division, print_function
 
 def nim_sum(board):
     # Your code goes here!
+    # If you decide to modify the board passed in, make a copy. The board will be used in your further programs and it must not be modified.
     pass
 
 
